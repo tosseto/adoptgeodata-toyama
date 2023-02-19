@@ -4,8 +4,12 @@
 * 法務省　登記所備付地図データ（2023年1月公開）moj_toyama.fgb
 * 総務省統計局　国勢調査250mメッシュ（2022年12月公開） stat2020_250mesh.fgb
 * 総務省統計局　国勢調査小地域（町丁字等）（2022年8月公開）  stat2020_chomoku.geojson
+* 国土数値情報　用途地域データ（2019年度）mlit_youto.geojson
+* 国土数値情報　立地適正化計画区域データ（2020年12月）mlit_lnp.geojson
 
 ## ライセンスと利用規約
 * [農林水産省筆ポリゴン](https://opendata.fude.maff.go.jp/%E7%AD%86%E3%83%9D%E3%83%AA%E3%82%B4%E3%83%B3%E3%81%AE%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84.pdf)
 * [法務省登記所備付地図データ](https://github.com/amx-project/kuwanauchi16toyama/blob/main/LICENSE.md)
 * [総務省統計局国勢調査](https://www.stat.go.jp/info/riyou.html)
+* [国土数値情報用途地域データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A29-v2_1.html)
+* [国土数値情報立地適正化計画データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A29-v2_1.html) 
